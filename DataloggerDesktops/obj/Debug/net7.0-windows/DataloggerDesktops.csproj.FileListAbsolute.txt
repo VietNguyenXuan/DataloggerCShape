@@ -1,0 +1,177 @@
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\DataloggerDesktops.exe
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\DataloggerDesktops.deps.json
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\DataloggerDesktops.runtimeconfig.json
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\DataloggerDesktops.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\DataloggerDesktops.pdb
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\CircularProgressBar_NET5.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\Json.Net.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\MetroFramework.Design.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\MetroFramework.Fonts.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\MetroFramework.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\MQTTnet.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\WinFormAnimation_NET5.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.csproj.AssemblyReference.cache
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.FormMain.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\MQTTChanel.MQTTClass.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.Properties.Resources.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.UI.AddDeviceForm.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.UI.AddFactoryForm.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.UI.AddLineForm.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.UI.UpdateDevice.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.UI.UpdateFactory.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.UI.UpdateLine.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.UI.Account.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.DashBoard.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.UI.Decentralization.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.Historical.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.SettingDevice.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.SettingParametter.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.SettingUser.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.Statistics.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.UI.ViewSettingDeviceForm.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.User.CreateUser.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.User.LogIn.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.User.Profile.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.User.UpdateUser.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.User.UserInfomation.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.csproj.GenerateResource.cache
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.AssemblyInfoInputs.cache
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.AssemblyInfo.cs
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.csproj.CoreCompileInputs.cache
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.csproj.CopyComplete
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\refint\DataloggerDesktops.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.pdb
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.genruntimeconfig.cache
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\ref\DataloggerDesktops.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\bin\Debug\net7.0-windows\WinForms.DataVisualization.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.Report.ReviewData.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktops - Copy - Copy (2)\DataloggerDesktop\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.csproj.ResolveComReference.cache
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\DataloggerDesktops.exe
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\DataloggerDesktops.deps.json
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\DataloggerDesktops.runtimeconfig.json
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\DataloggerDesktops.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\DataloggerDesktops.pdb
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\CircularProgressBar_NET5.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\Json.Net.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\MetroFramework.Design.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\MetroFramework.Fonts.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\MetroFramework.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\MQTTnet.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\WinFormAnimation_NET5.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\WinForms.DataVisualization.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.csproj.AssemblyReference.cache
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.csproj.ResolveComReference.cache
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.FormMain.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\MQTTChanel.MQTTClass.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.Properties.Resources.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.Report.ReviewData.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.UI.AddDeviceForm.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.UI.AddFactoryForm.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.UI.AddLineForm.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.UI.UpdateDevice.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.UI.UpdateFactory.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.UI.UpdateLine.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.UI.Account.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.DashBoard.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.UI.Decentralization.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.Historical.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.SettingDevice.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.SettingParametter.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.SettingUser.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.Statistics.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.UI.ViewSettingDeviceForm.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.User.CreateUser.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.User.LogIn.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.User.Profile.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.User.UpdateUser.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.User.UserInfomation.resources
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.csproj.GenerateResource.cache
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.AssemblyInfoInputs.cache
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.AssemblyInfo.cs
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.csproj.CoreCompileInputs.cache
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.csproj.CopyComplete
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\refint\DataloggerDesktops.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.pdb
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\DataloggerDesktops.genruntimeconfig.cache
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\obj\Debug\net7.0-windows\ref\DataloggerDesktops.dll
+C:\Users\19146\OneDrive\Máy tính\DataloggerDesktop-SettingParametter\DataloggerDesktops\bin\Debug\net7.0-windows\DataloggerDesktops.dll.config

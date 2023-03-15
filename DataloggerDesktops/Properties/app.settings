@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DataloggerDesktops.Properties" GeneratedClassName="app">
+  <Profiles />
+  <Settings>
+    <Setting Name="topic" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/vule/projects/datalogger/stations/shiratechPoE/monitor</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

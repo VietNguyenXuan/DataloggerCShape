@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Report\ReviewData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UIAdd\AddDeviceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UIAdd\AddFactoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UIAdd\AddLineForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Decentralization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\DashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Historical.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\SettingDevice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\SettingParametter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\SettingUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Statistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UIUpdate\UpdateDevice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UIUpdate\UpdateFactory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UIUpdate\UpdateLine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\ViewSettingDeviceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User\CreateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User\LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User\Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User\UpdateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User\UserInfomation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
